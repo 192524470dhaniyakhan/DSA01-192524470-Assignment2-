@@ -1,10 +1,4 @@
-# ASSIGNMENT 2 – CO2
 
-**Course:** DSA01 – C++ Programming  
-**Student Name:** [Enter your name]  
-**Register Number:** [Enter your register number]  
-**GitHub Repository:** [Paste repository URL]  
-**Compiler:** g++ 14.2.0 (update if your compiler differs)  
 
 > Replace the bracketed personal details. Execute each program on your own computer and add genuine screenshots. The timing values are intentionally not pre-filled because they depend on your computer and compiler.
 
